@@ -10,6 +10,7 @@ public class AppointmentServiceApplication {
 
 		SpringApplication.run(AppointmentServiceApplication.class, args);
 		System.out.println("Sonu");
+		System.out.println("trideep");
 	}
 
 }
